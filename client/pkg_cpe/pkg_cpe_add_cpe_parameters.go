@@ -15,7 +15,7 @@ import (
 	cr "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/tttfrfr2/tempfiles/openapi/gen/models"
+	"github.com/tttfrfr2/goapi2/models"
 )
 
 // NewPkgCpeAddCpeParams creates a new PkgCpeAddCpeParams object,

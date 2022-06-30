@@ -10,13 +10,13 @@ import (
 	httptransport "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/tttfrfr2/tempfiles/openapi/gen/client/cve"
-	"github.com/tttfrfr2/tempfiles/openapi/gen/client/health"
-	"github.com/tttfrfr2/tempfiles/openapi/gen/client/lockfile"
-	"github.com/tttfrfr2/tempfiles/openapi/gen/client/pkg_cpe"
-	"github.com/tttfrfr2/tempfiles/openapi/gen/client/role"
-	serverops "github.com/tttfrfr2/tempfiles/openapi/gen/client/server"
-	"github.com/tttfrfr2/tempfiles/openapi/gen/client/task"
+	"github.com/tttfrfr2/goapi2/client/cve"
+	"github.com/tttfrfr2/goapi2/client/health"
+	"github.com/tttfrfr2/goapi2/client/lockfile"
+	"github.com/tttfrfr2/goapi2/client/pkg_cpe"
+	"github.com/tttfrfr2/goapi2/client/role"
+	serverops "github.com/tttfrfr2/goapi2/client/server"
+	"github.com/tttfrfr2/goapi2/client/task"
 )
 
 // Default goapi HTTP client.

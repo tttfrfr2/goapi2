@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/tttfrfr2/tempfiles/openapi/gen/models"
+	"github.com/tttfrfr2/goapi2/models"
 )
 
 // PkgCpeAddCpeReader is a Reader for the PkgCpeAddCpe structure.

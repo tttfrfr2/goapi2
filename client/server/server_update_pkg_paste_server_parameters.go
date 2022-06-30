@@ -16,7 +16,7 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
 
-	"github.com/tttfrfr2/tempfiles/openapi/gen/models"
+	"github.com/tttfrfr2/goapi2/models"
 )
 
 // NewServerUpdatePkgPasteServerParams creates a new ServerUpdatePkgPasteServerParams object,
